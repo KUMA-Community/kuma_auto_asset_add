@@ -1,0 +1,1 @@
+# kuma_auto_asset_add
