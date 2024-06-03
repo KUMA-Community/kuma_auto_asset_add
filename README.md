@@ -15,7 +15,7 @@ python 3.6+
 - requests
 - os
 
-KUMA 3.0.2
+KUMA 3.0.x
 
 ---
 
